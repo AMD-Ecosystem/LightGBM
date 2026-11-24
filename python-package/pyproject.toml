@@ -27,7 +27,7 @@ maintainers = [
   {name = "Yu Shi", email = "yushi@microsoft.com"},
   {name = "Advanced Micro Devices Inc"}
 ]
-name = "amd_lightgbm"
+name = "lightgbm"
 readme = "README.rst"
 requires-python = ">=3.9"
 version = "4.6.0.99"
